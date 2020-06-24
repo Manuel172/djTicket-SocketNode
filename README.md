@@ -1,6 +1,6 @@
 # Notas:
 
-Este es un servicio socket que realiza la atencion de ticket
+Aplicación de ticket de atención bajo Socket de Nodejs
 
 Recuerden que deben de reconstruir los módulos de node con el comando
 
